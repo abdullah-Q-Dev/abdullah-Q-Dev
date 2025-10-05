@@ -1,16 +1,27 @@
-## Hi there 👋
+Full Stack Developer
 
-<!--
-**abdullah-Q-Dev/abdullah-Q-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Full Stack Developer focused on building scalable, user-centric web applications and MVPs. I specialize in modern JavaScript frameworks and love turning complex ideas into clean, efficient, and functional products.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux
+
+Backend: Node.js, Express.js, FastAPI, Django
+
+Databases: PostgreSQL, MongoDB, Firebase, Supabase
+
+AI & Integrations: OpenAI API, LangChain, Stripe, Twilio, GoHighLevel
+
+DevOps: Docker, GitHub Actions, Vercel, AWS
+
+🚀 What I Do
+
+Build MVPs and SaaS platforms from scratch
+
+Develop AI-integrated web apps and chat platforms
+
+Design and implement secure APIs and payment systems
+
+Optimize UI/UX for speed, responsiveness, and accessibility
+
+Collaborate with founders and startups to bring ideas to life fast
